@@ -2,7 +2,7 @@
     "ClassDecorator": {
         "prefix": "ts-dec-class",
         "scope": "typescript",
-        "description": "Snippet for scaffold a TypeScript class decorator",
+        "description": "Snippet for scaffolding a TypeScript class decorator",
         "body": [
             "/**",
             " * Comment",

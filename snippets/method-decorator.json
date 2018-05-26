@@ -2,7 +2,7 @@
     "MethodDecorator": {
         "prefix": "ts-dec-method",
         "scope": "typescript",
-        "description": "Snippet for scaffold a TypeScript method decorator",
+        "description": "Snippet for scaffolding a TypeScript method decorator",
         "body": [
             "/**",
             " * Comment",
