@@ -1,59 +1,59 @@
 {
-  "name": "vscode-ts-decorators",
-  "publisher": "semagarcia",
-  "version": "1.0.0",
-  "displayName": "TypeScript Decorators",
-  "description": "Snippets for TypeScript decorators for Visual Studio Code",
-  "icon": "images/ts-decorators.png",
-  "galleryBanner": {
-    "color": "#0273D4",
-    "theme": "dark"
-  },
-  "license": "SEE LICENSE IN LICENSE.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/semagarcia/vscode-ts-decorators.git"
-  },
-  "keywords": [
-    "TypeScript",
-    "Decorator",
-    "Snippet"
-  ],
-  "engines": {
-    "vscode": "^1.10.0"
-  },
-  "scripts": {
-    "package": "vsce package"
-  },
-  "devDependencies": {
-    "vscode": "^1.11.0"
-  },
-  "categories": [
-    "Snippets",
-    "Other"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "typescript",
-        "path": "./snippets/class-decorator.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/method-decorator.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/parameter-decorator.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/parameter-param-decorator.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/property-decorator.json"
-      }
-    ]
-  }
+    "name": "vscode-ts-decorators",
+    "publisher": "semagarcia",
+    "version": "1.0.1",
+    "displayName": "TypeScript Decorators",
+    "description": "Snippets for TypeScript decorators for Visual Studio Code",
+    "icon": "images/ts-decorators.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/semagarcia/vscode-ts-decorators.git"
+    },
+    "keywords": [
+        "TypeScript",
+        "Decorator",
+        "Snippet"
+    ],
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "scripts": {
+        "package": "vsce package"
+    },
+    "devDependencies": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Snippets",
+        "Other"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "typescript",
+                "path": "./snippets/class-decorator.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/method-decorator.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/parameter-decorator.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/parameter-param-decorator.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/property-decorator.json"
+            }
+        ]
+    }
 }
