@@ -1,6 +1,9 @@
 # vscode-ts-decorators
 Snippets for writing TypeScript decorators in VisualCode with ease.
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/semagarcia.vscode-ts-decorators.svg)](https://marketplace.visualstudio.com/items?itemName=semagarcia.vscode-ts-decorators)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/semagarcia.vscode-ts-decorators.svg)](https://marketplace.visualstudio.com/items?itemName=semagarcia.vscode-ts-decorators)
+
 ## How use snippets?
 When the extension is installed, open the source TypeScript file where you'll code your new TS decorator.
 
