@@ -1,7 +1,7 @@
 {
     "name": "vscode-ts-decorators",
     "publisher": "semagarcia",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "TypeScript Decorators",
     "description": "Snippets for TypeScript decorators for Visual Studio Code",
     "homepage": "https://github.com/semagarcia/vscode-ts-decorators/blob/master/README.md",
